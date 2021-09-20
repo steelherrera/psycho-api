@@ -1,12 +1,15 @@
 {
   "name": "psycho-api",
   "version": "1.0.0",
-  "description": "",
+  "description": "API For providing psychologist front end page functionalities.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "steelherrera",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "serverless-express": "^2.0.12"
+  }
 }
